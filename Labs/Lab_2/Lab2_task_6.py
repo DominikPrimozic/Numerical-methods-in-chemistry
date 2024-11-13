@@ -5,7 +5,7 @@ Created on Wed Nov 13 12:39:20 2024
 @author: domin
 """
 
-#No numoy :)
+#No numpy :)
 
 
 roots=dict()
